@@ -4,5 +4,6 @@ matplotlib
 webob
 sphinx
 pyqt5
+PyQtWebEngine
 nose
 decorator
